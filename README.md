@@ -11,6 +11,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/basaran3mir/basaran3mir/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=basaran3mir&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basaran3mir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -49,10 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/basaran3mir/basaran3mir/output/snake.svg" alt="Snake animation" />
 
 ###
 
