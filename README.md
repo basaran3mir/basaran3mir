@@ -65,5 +65,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=basaran3mir.basaran3mir&left_text=was spied"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=basaran3mir.basaran3mir&left_text=spied"  />
 </div>
