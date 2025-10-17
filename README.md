@@ -11,7 +11,7 @@
 <p align="center"> <strong>— Streak —</strong><br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=basaran3mir&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=basaran3mir&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
