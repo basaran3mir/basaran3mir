@@ -1,7 +1,5 @@
 <p align="center"> <strong>— Hello, I'm Emir Can Başaran —</strong><br><br>I am a software developer who embraces continuous learning and self-improvement in the ever-evolving world of technology. I value clean code principles and the creation of sustainable solutions. With a disciplined work ethic and strong attention to detail, I aim to transform complex problems into efficient and scalable solutions. I am a team-oriented, communicative, and responsible professional.<br><br><strong>— About My Experiences —</strong><br><br>I have experience in web and mobile application development, as well as in effectively integrating artificial intelligence technologies into my projects. Additionally, I have had the opportunity to develop projects on various operating systems. These experiences have enhanced my productivity across diverse technological environments and strengthened my vision for creating innovative solutions.<br><br><strong>— Explore My Works —</strong><br><br>You can visit my <a href="https://basaran3mir.github.io/" target="_blank"><strong>personal website</strong></a> to learn more about me. I’ve also created different web pages as shown in below: <br> <a href="https://basaran3mir.github.io/promotion-claim-page/" target="_blank"><strong>Promotion Landing Page</strong></a> - a simple promotion application web page for desired brands.<br>
 
-###
-
 <p align="center"> <strong>— My Social —</strong><br><br>
 
 <div align="center">
