@@ -1,6 +1,8 @@
 <p align="center"> <strong>— Hello, I'm Emir Can Başaran —</strong><br><br>I am a software developer who embraces continuous learning and self-improvement in the ever-evolving world of technology. I value clean code principles and the creation of sustainable solutions. With a disciplined work ethic and strong attention to detail, I aim to transform complex problems into efficient and scalable solutions. I am a team-oriented, communicative, and responsible professional.<br><br><strong>— About My Experiences —</strong><br><br>I have experience in web and mobile application development, as well as in effectively integrating artificial intelligence technologies into my projects. Additionally, I have had the opportunity to develop projects on various operating systems. These experiences have enhanced my productivity across diverse technological environments and strengthened my vision for creating innovative solutions.<br><br><strong>— Explore My Works —</strong><br><br>You can visit my <a href="https://basaran3mir.github.io/" target="_blank"><strong>personal website</strong></a> to learn more about me. I’ve also created different web pages as shown in below: <br> <a href="https://basaran3mir.github.io/promotion-claim-page/" target="_blank"><strong>Promotion Landing Page</strong></a> - a simple promotion application web page for desired brands.<br>
 
-<p align="center"> <strong>— My Social —</strong><br><br>
+###
+
+<p align="center"> <strong>— Social —</strong><br>
 
 <div align="center">
   <a href="mailto:ebasaran999@gmail.com" target="_blank">
@@ -16,9 +18,13 @@
 
 ###
 
+<p align="center"> <strong>— Contribution History —</strong><br>
+
 <img src="https://raw.githubusercontent.com/basaran3mir/basaran3mir/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center"> <strong>— Streak —</strong><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=basaran3mir&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
@@ -26,6 +32,8 @@
 </div>
 
 ###
+
+<p align="center"> <strong>— Technologies —</strong><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
@@ -59,10 +67,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=basaran3mir.basaran3mir&left_text=spied"  />
 </div>
