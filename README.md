@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/basaran3mir/basaran3mir/output/snake.svg" alt="Snake animation" />
 
-<br>
 ###
 
 <p align="center"> <strong>— Streak —</strong><br>
@@ -15,7 +14,6 @@
   <img src="https://streak-stats.demolab.com?user=basaran3mir&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-<br>
 ###
 
 <p align="center"> <strong>— Languages —</strong><br>
@@ -24,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basaran3mir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br>
 ###
 
 <p align="center"> <strong>— Technologies —</strong><br>
@@ -43,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
-<br>
 ###
 
 <div align="center">
@@ -56,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-<br>
 ###
 
 <div align="center">
@@ -71,7 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<br>
 ###
 
 <div align="center">
@@ -84,7 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-<br>
 ###
 
 <p align="center"> <strong>— Social —</strong><br>
@@ -101,5 +94,4 @@
   </a>
 </div>
 
-<br>
 ###
