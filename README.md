@@ -6,6 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/basaran3mir/basaran3mir/output/snake.svg" alt="Snake animation" />
 
+<br>
 ###
 
 <p align="center"> <strong>— Streak —</strong><br>
