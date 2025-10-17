@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> <strong>— Hello, My Social —</strong><br>
+<p align="center"> <strong>— My Social —</strong><br><br>
 
 <div align="center">
   <a href="mailto:ebasaran999@gmail.com" target="_blank">
