@@ -2,22 +2,6 @@
 
 ###
 
-<p align="center"> <strong>— Social —</strong><br>
-
-<div align="center">
-  <a href="mailto:ebasaran999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
-  <a href="https://tr.linkedin.com/in/basaran3mir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://basaran3mir.medium.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
 <p align="center"> <strong>— Contribution History —</strong><br>
 
 <img src="https://raw.githubusercontent.com/basaran3mir/basaran3mir/output/snake.svg" alt="Snake animation" />
@@ -74,4 +58,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<p align="center"> <strong>— Social —</strong><br>
+
+<div align="center">
+  <a href="mailto:ebasaran999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://tr.linkedin.com/in/basaran3mir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://basaran3mir.medium.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="medium logo"  />
+  </a>
 </div>
