@@ -1,4 +1,4 @@
-<p align="center"> <strong>— Hello, I'm Emir Can Başaran —</strong><br><br>I am a software developer who embraces continuous learning and self-improvement in the ever-evolving world of technology. I value clean code principles and the creation of sustainable solutions. With a disciplined work ethic and strong attention to detail, I aim to transform complex problems into efficient and scalable solutions. I am a team-oriented, communicative, and responsible professional.<br><br><strong>— About My Experiences —</strong><br><br>I have experience in web and mobile application development, as well as in effectively integrating artificial intelligence technologies into my projects. Additionally, I have had the opportunity to develop projects on various operating systems. These experiences have enhanced my productivity across diverse technological environments and strengthened my vision for creating innovative solutions.<br><br><strong>— Explore My Works —</strong><br><br>You can visit my <a href="https://basaran3mir.github.io/" target="_blank"><strong>personal website</strong></a> to learn more about me. I’ve also created different web pages as shown in below: <br> <a href="https://basaran3mir.github.io/promotion-claim-page/" target="_blank"><strong>Promotion Landing Page</strong></a> - a simple promotion application web page for desired brands.<br>
+<p align="center"> <strong>— Hello, I'm Emir Can Başaran —</strong><br><br>I am a software developer who embraces continuous learning and self-improvement in the ever-evolving world of technology. I value clean code principles and the creation of sustainable solutions. With a disciplined work ethic and strong attention to detail, I aim to transform complex problems into efficient and scalable solutions. I am a team-oriented, communicative, and responsible professional.<br><br><strong>— About My Experiences —</strong><br><br>I have experience in web and mobile application development, as well as in effectively integrating artificial intelligence technologies into my projects. Additionally, I have had the opportunity to develop projects on various operating systems. These experiences have enhanced my productivity across diverse technological environments and strengthened my vision for creating innovative solutions.<br><br><strong>— Explore My Works —</strong><br><br>You can visit my <a href="https://basaran3mir.github.io/" target="_blank"><strong>personal website</strong></a> to learn more about me.
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center"> <strong>— Languages —</strong><br>
+<p align="center"> <strong>— Programming Languages —</strong><br>
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basaran3mir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center"> <strong>— Technologies —</strong><br>
+<p align="center"> <strong>— Programming Technologies —</strong><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -83,6 +83,9 @@
 <p align="center"> <strong>— Social —</strong><br>
 
 <div align="center">
+    <a href="basaran3mir.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Webpage&logo=&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
   <a href="mailto:ebasaran999@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
