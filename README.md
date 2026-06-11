@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="res/profile-banner.png" width="100%" alt="Profile Banner" />
+  <a href="https://emirbasaran.com" target="_blank" rel="noopener noreferrer">
+    <img src="res/profile-banner.png" width="100%" alt="Profile Banner" />
+  </a>
 </div>
+
+<br />
 
 <br />
 
