@@ -6,8 +6,6 @@
 
 <br />
 
-<br />
-
 # Hello, I'm Emir Can Başaran
 
 I am a software developer who embraces continuous learning and self-improvement in the ever-evolving world of technology. I value clean code principles and the creation of sustainable solutions. With a disciplined work ethic and strong attention to detail, I aim to transform complex problems into efficient and scalable systems. I am a team-oriented, communicative, and responsible professional.
